@@ -1,0 +1,5 @@
+{
+  "name": "Local Music Player",
+  "description": "A simple and elegant web-based music player that plays audio files stored locally on your device. Browse your music folders, manage your playlist, and enjoy seamless playback with a clean, minimal user interface.",
+  "requestFramePermissions": []
+}
